@@ -16,7 +16,7 @@ We build small, focused apps that do one job well. Your data belongs to you.
 
 | App | What it does | Platform | Status |
 | --- | --- | --- | --- |
-| [**Networthy**](https://github.com/cairn-labworks/Networthy) | A private, offline-first net-worth tracker. Track assets and liabilities across portfolios and currencies, stored in an encrypted database on your device. | Android, iOS | Open source (MIT) · Coming soon to Google Play |
+| [**Okanzo**](https://github.com/cairn-labworks/Okanzo) | A private, offline-first net-worth tracker. Track assets and liabilities across portfolios and currencies, stored in an encrypted database on your device. | Android, iOS | Open source (MIT) · Coming soon to Google Play |
 | **MileReel** | Turns your Android phone into a dash cam: background loop recording, a GPS and speed overlay, and clips that stay on your phone. | Android | Coming soon to Google Play |
 
 ## Get in touch
